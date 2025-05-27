@@ -1,3 +1,6 @@
+视频地址 https://www.bilibili.com/video/BV1FTjZzQEqe/?vd_source=f39e9989a273d6500ad53adb9371a883
+
+/////////////////////////////////////////////////////////
 avalanche blockchain create myblockchain
 ✔ Subnet-EVM
 ✔ Proof Of Authority
