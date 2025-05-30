@@ -1,4 +1,4 @@
-视频地址 https://www.bilibili.com/video/BV1FTjZzQEqe/?vd_source=f39e9989a273d6500ad53adb9371a883
+视频地址 https://www.bilibili.com/video/BV1oQ7Ez3E5M/?vd_source=f39e9989a273d6500ad53adb9371a883
 
 # Avalanche L1 主权链部署指南
 
